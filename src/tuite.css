@@ -1,0 +1,35 @@
+.tuite{
+    position: absolute;
+    width:200px;
+    height: 200px; 
+    right: 100%;
+    background:url('https://6c6f-lowcode-4gt188gpad8445cc-1304939633.tcb.qcloud.la/%E6%8E%A8%E7%89%B9.png?sign=31a162944798021f48112ba78b483d7e&t=1654956383');
+    transform: scale(0.23);  
+    -ms-transform: scale(0.23);
+    -webkit-transform: scale(0.23);
+    -o-transform: scale(0.23);
+    -moz-transform: scale(0.23);
+    bottom: 480px;
+    right: 10%;
+    z-index: 2;
+    opacity: 1; 
+    }
+ .dis{
+        position: absolute;
+        width:200px;
+        height: 200px; 
+        right: 100%;
+        background:url('https://6c6f-lowcode-4gt188gpad8445cc-1304939633.tcb.qcloud.la/discord.png?sign=2a20dde8aab2adfa968be7bd803f54f0&t=1654955959');
+        transform: scale(0.25);  
+        -ms-transform: scale(0.25);
+        -webkit-transform: scale(0.25);
+        -o-transform: scale(0.25);
+        -moz-transform: scale(0.25);
+        bottom: 480px;
+        right: 5%;
+        z-index: 2;
+        opacity: 1; 
+        }
+        
+    
+
